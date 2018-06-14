@@ -6,6 +6,7 @@ using namespace std;
 void fun()
 {
     //Fun
+    cout<<"Hello"<<endl;
 }
 //Main
 int main()
