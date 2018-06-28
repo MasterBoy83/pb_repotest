@@ -5,8 +5,13 @@ using namespace std;
 /// fun() ///
 void fun()
 {
-    //Fundddd
+    //Function HEllo
     cout<<"Hello"<<endl;
+}
+
+void fun2()
+{
+    cout<<"World"<<endl;
 }
 //Main
 int main()
