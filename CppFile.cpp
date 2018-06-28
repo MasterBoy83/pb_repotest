@@ -11,6 +11,7 @@ void fun()
 
 void fun2()
 {
+    fun();
     cout<<"World"<<endl;
 }
 //Main
