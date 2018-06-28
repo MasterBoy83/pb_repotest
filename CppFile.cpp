@@ -26,6 +26,14 @@ int main()
 	cout<<"fun2()"<<endl;
     fun2();
     cout<<"Zmienna a:"<<a<<endl;
+	switch(a)
+	{
+		case 1:
+			cout<<"1"<<endl;
+			break;
+		default:
+			break;
+	}
     
     cout<<"Tab: "<<endl;
     for(int i = 0;i<4;i++)
