@@ -20,6 +20,7 @@ int main()
     int tab[4] = {1,2,3,4};
     int a = 9;
     //call
+	cout<<"fun2()"<<endl;
     fun();
     cout<<"Zmienna a:"<<a<<endl;
     
