@@ -22,8 +22,8 @@ int main()
     int tab[4] = {1,2,3,4};
     int a = 9;
     //call
-	//fun2()
-	cout<<"fun2()"<<endl;
+    //fun2()
+    cout<<"fun2()"<<endl;
     fun2();
     cout<<"Zmienna a:"<<a<<endl;
 	switch(a)
@@ -35,6 +35,8 @@ int main()
 			break;
 	}
     
+    int b = 44;
+    int c = a + b;
     cout<<"Tab: "<<endl;
     for(int i = 0;i<4;i++)
     {
