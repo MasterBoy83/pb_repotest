@@ -21,7 +21,8 @@ int main()
 {
     int tab[4] = {1,2,3,4};
     int a = 9;
-    //call
+   	//call
+	//fun2()
     fun2();
     cout<<"Zmienna a:"<<a<<endl;
     
